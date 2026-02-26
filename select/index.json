@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "this is what losing someone feels like",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-26T17:16:24.416535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/01_this_is_what_losing_someone_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/02_this_is_what_losing_someone_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "this is what losing someone feels like (official video)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/03_this_is_what_losing_someone_feels_like_(official_video)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JVKE - this is what losing someone feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/04_JVKE_-_this_is_what_losing_someone_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/05_this_is_what_losing_someone_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "this is what losing someone feels like",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_this_is_what_losing_someone_feels_like_JVKE.txt"
+    }
+  ]
+}
